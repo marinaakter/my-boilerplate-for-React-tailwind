@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h1 className='text-6xl bg-orange-200'>Knowledge-Cafe</h1>
+      <h1 className='text-6xl bg-orange-200'>My BoilerPlate</h1>
     </>
   )
 }
